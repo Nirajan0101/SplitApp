@@ -17,7 +17,7 @@ For setting up backend
 cd create a .env file in the root of your directory.
 Supply the following credentials
 PORT=3001
-MONGODB_URI=
+MONGODB_URI=""
 ACCESS_TOKEN_SECRET=
 
 Please follow This tutorial to create your mongoDB connection url, which you'll use as your MONGODB_URI
